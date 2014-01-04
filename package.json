@@ -5,7 +5,7 @@
     "keywords":["durandal", "build", "require", "spa", "amd"],
     "preferGlobal": true,
     "homepage":"http://durandaljs.com/",
-    "bugs":"https://github.com/BlueSpire/Durandal/issues",
+    "bugs":"https://github.com/BlueSpire/Weyland/issues",
     "license" : "MIT",
     "author":{
         "name" : "Rob Eisenberg",
@@ -20,7 +20,7 @@
     "bin":{ "weyland" : "./bin/cli.js" },
     "repository":{
         "type" : "git",
-        "url" : "https://github.com/BlueSpire/Durandal"
+        "url" : "https://github.com/BlueSpire/Weyland"
     },
     "dependencies" : {
         "commander" : "~1.2.0",
